@@ -57,10 +57,10 @@ Where:
 
 - **Success: If the scan is successful, you will see a list of devices like
 - 
-> IP Address           MAC Address
-> -----------------------------------------
-> 192.168.1.2          00:1A:2B:3C:4D:5E
-> 192.168.1.3          00:1A:2B:3C:4D:5F
+ IP Address           MAC Address
+ -----------------------------------------
+ 192.168.1.2          00:1A:2B:3C:4D:5E
+ 192.168.1.3          00:1A:2B:3C:4D:5F
 
 
 
