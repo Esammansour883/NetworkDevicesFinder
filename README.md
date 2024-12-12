@@ -53,23 +53,6 @@ Where:
  python network_scanner.py -i 192.168.1.1/24
  ```
 
-### Script Output
-
-- **Success: If the scan is successful, you will see a list of devices like
-- 
- IP Address           MAC Address\n
- -----------------------------------------\n
- 192.168.1.2          00:1A:2B:3C:4D:5E
- 192.168.1.3          00:1A:2B:3C:4D:5F
-
-
-
-- **Failure**: If an error occurs, an appropriate error message will be displayed:
-
- > `[-] Invalid IP address. Please use the script as follows:
-python network_scanner.py -i <IP_ADDRESS_RANGE>
-For example: python network_scanner.py -i 192.168.1.1/24
-.`
 
 ## How It Works
 
