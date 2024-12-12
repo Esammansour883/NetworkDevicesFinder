@@ -57,10 +57,11 @@ Where:
 
 - **Success: If the scan is successful, you will see a list of devices like
 
-> `IP Address           MAC Address `
-> `-----------------------------------------`
-> `192.168.1.2          00:1A:2B:3C:4D:5E`
->  `192.168.1.3          00:1A:2B:3C:4D:5F`
+> `IP Address           MAC Address
+> -----------------------------------------
+> 192.168.1.2          00:1A:2B:3C:4D:5E
+> 192.168.1.3          00:1A:2B:3C:4D:5F`
+
 
 
 - **Failure**: If an error occurs, an appropriate error message will be displayed:
@@ -78,9 +79,9 @@ For example: python network_scanner.py -i 192.168.1.1/24
 
 ## Enhancements and Use Cases
 
-- ** Network Administration: Useful for administrators to monitor and manage network devices.
-- ** Security Assessments: Can be used to identify unauthorized devices on the network.
-- ** Testing and Troubleshooting: Helps in testing network configurations and identifying connectivity issues.
+- **Network Administration: Useful for administrators to monitor and manage network devices.
+- **Security Assessments: Can be used to identify unauthorized devices on the network.
+- **Testing and Troubleshooting: Helps in testing network configurations and identifying connectivity issues.
 
 ## Limitations
 
