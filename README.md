@@ -45,7 +45,7 @@ python network_scanner.py -i <IP_ADDRESS_RANGE>
  ```
 
 Where:
-- **<IP_ADDRESS_RANGE>: The IP address range to scan (e.g., 192.168.1.1/24)
+- <IP_ADDRESS_RANGE>: The IP address range to scan (e.g., 192.168.1.1/24)
 
 ### Example:
 
